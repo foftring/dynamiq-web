@@ -1,5 +1,17 @@
 {
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [ "6502919379.com.foftring.Dynamiq" ],
+                "paths": [ "*" ]
+            }
+        ]
+    },
     "webcredentials": {
         "apps": [ "6502919379.com.foftring.Dynamiq" ]
+    },
+    "appclips": {
+        "apps": [ "6502919379.com.foftring.Dynamiq.Clip" ]
     }
 }
